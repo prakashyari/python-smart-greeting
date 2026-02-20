@@ -8,4 +8,4 @@ This is a beginner Python project.
 - Calculates approximate birth year
 - Prints personalized message
 
-## How to Run
+
